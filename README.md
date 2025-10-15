@@ -1,5 +1,3 @@
-保存到APP查看
-下载印象笔记
 git
 本地部署
 1、整理文件结构
@@ -10,16 +8,12 @@ Public（公开）
 Initialize with README 勾选也可以，不勾选也行
 创建仓库
 3、上传代码（用gitbash）
-cd "C:\Users\ylq\Desktop\ZONNET_Website" 定位文件路径
+cd "C:\Users\YinLeRen\Desktop\Bory\Hk_web\zonnet_limited_HK\front\website" 定位文件路径
 git init 初始化Git仓库
-git remote add origin https://github.com/你的用户名/zonnet-website.git 关联远程仓库
+git remote add origin https://github.com/YINLERENKING/-.git 关联远程仓库
 git add .  添加文件
-git commit -m "首次上传网站文件" （""里随便，为注释）
+git commit -m "zonnet" （""里随便，为注释）
 git push -u origin master 推送到github
-
-
-
-
 
 
 
